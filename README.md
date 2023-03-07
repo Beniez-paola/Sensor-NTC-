@@ -13,3 +13,24 @@ Un sensor de temperatura analógico (o de salida de voltaje) proporciona un nive
 
 -Los sensores de temperatura de silicio no requieren circuitos externos, por lo que minimizan el costo y el área de la placa.
 
+##Ejemplos de aplicaciones que se ocupan de la temperatura incluyen:
+-Apagado térmico de la fuente de alimentación
+
+-Control de termostato
+
+-Control del ventilador
+
+-Acondicionador de bateria automotriz
+
+-Climatización
+
+-Refrigerador
+
+-Congelador
+
+-Ollas arroceras
+
+-Amplificador de poder
+
+
+
