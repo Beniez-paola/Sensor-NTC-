@@ -44,8 +44,37 @@ Este esquema se llama divisor de voltaje , porque el voltaje VCC se divide entre
 
 ## Simulando el sensor
 
-![](/img/diagrama.jpg)
+![](/imagenes/diagrama.jpg)
 
+## Codigo 
 
+```python
+#Benitez Solorzano Paola
+# Analog temperature sensor (NTC)
+#Librerias importadas para el programa
+from time import sleep
+from machine import ADC
+from math import log
+
+# Uso de constantes
+BETA = 3950
+KELVIN_CONSTANT = 273.15
+
+#Funciones
+def adc_to_celsius(x):
+    return (1 / (log(1/(65535/x - 1))/BETA + 1/298.15) - KELVIN_CONSTANT)
+
+#variable
+thermistor_pin = ADC(26)
+
+#Bucles
+while True:
+    thermistor_value = thermistor_pin.read_u16()
+    print("Valor(ADC)","Celsius(°C)" )
+    print(thermistor_value , "      ", adc_to_celsius(thermistor_value))
+    sleep(0.1)
+
+```
+**Link del programa :** https://wokwi.com/projects/358609805099260929
 
 
