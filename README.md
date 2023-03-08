@@ -25,6 +25,14 @@ Un sensor de temperatura analógico (o de salida de voltaje) proporciona un nive
 * Los sensores de temperatura de silicio no requieren una corriente de excitación, lo que reduce el consumo de energía.
 * Los sensores de temperatura de silicio no requieren circuitos externos, por lo que minimizan el costo y el área de la placa.
 
+## Nombre de los pines 
+
+| Nombre  | Descripción                      |
+|---------|----------------------------------|
+| VCC     | Fuente de alimentación positiva  |
+| OUT     | Señal de salida (analógica)      |
+| GND     | Tierra                           |
+
 ## Ejemplos de aplicaciones que se ocupan de la temperatura incluyen:
 * Apagado térmico de la fuente de alimentación
 * Control de termostato
@@ -57,7 +65,7 @@ from machine import ADC
 from math import log
 
 # Uso de constantes
-BETA = 3950
+BETA = 3950 # es el coeficiente del beta del termistor
 KELVIN_CONSTANT = 273.15
 
 #Funciones
@@ -79,6 +87,19 @@ while True:
 
 ## Resultados
 
+> Cuando le damos clic en el boton de "iniciar simulación" estos son los resultados que aparecen.
 
+![](/imagenes/Resultado1.jpg)
 
+> Si queremos cambiar la temperatura, le damos clic al sensor y nos aparece este recuadro para modifcar la temperatura.
 
+![](/imagenes/Termometro.jpg)
+
+> Aqui se ven los cambios reflejados al mover la temperatura
+
+![](/imagenes/Resultado2.jpg)
+
+## Fuentes bibliograficas
+* https://microchipdeveloper.com/analog:analog-temperature-sensor
+* https://bhave.sh/micropython-measure-temperature/
+* https://docs.wokwi.com/parts/wokwi-ntc-temperature-sensor
