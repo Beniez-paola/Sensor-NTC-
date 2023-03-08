@@ -77,4 +77,8 @@ while True:
 ```
 **Link del programa :** https://wokwi.com/projects/358609805099260929
 
+## Resultados
+
+
+
 
