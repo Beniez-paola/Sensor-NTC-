@@ -81,7 +81,7 @@ while True:
     sleep(0.1)
 
 ```
-**Link del programa :** 
+**Link del programa :** https://wokwi.com/projects/358690984043860993
 
 ## Resultados
 
