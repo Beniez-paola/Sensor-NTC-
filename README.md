@@ -52,7 +52,7 @@ Este esquema se llama divisor de voltaje , porque el voltaje VCC se divide entre
 
 ## Simulando el sensor
 
-![](/imagenes/diagrama.jpg)
+![](/imagenes/Diagrama1.jpg)
 
 ## Codigo 
 
