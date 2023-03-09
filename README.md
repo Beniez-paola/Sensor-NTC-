@@ -57,7 +57,6 @@ Este esquema se llama divisor de voltaje , porque el voltaje VCC se divide entre
 ## Codigo 
 
 ```python
-#Benitez Solorzano Paola
 # Analog temperature sensor (NTC)
 #Librerias importadas para el programa
 from time import sleep
@@ -82,7 +81,7 @@ while True:
     sleep(0.1)
 
 ```
-**Link del programa :** https://wokwi.com/projects/358609805099260929
+**Link del programa :** 
 
 ## Resultados
 
