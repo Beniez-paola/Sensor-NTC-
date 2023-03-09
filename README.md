@@ -1,11 +1,15 @@
 # Analog Temperature Sensor (NTC) - Sensor de temperatura analogo 
 
 ## Nombre del alumno: Benitez Solorzano Paola
+INSTITUTO TECNOLÓGICO DE TIJUANA
+
+DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+
+Carrera: Ingenieria en sistemas computacionales
+
 Materia: Sistemas programables
 
 Maestro: Rene Solis Reyes
-
-Carrera: Ingenieria en sistemas computacionales
 
 ## Introducción
 Dentro de la actualidad hemos visto que existen muchos tipos de termometros pero dentro de ellos estan los termometros digitales. Normalmente para tomar la temperatura se usa un termistor fisico para checar la temperatura. Pero se puede simular un termometro digital con un analog temperature sensor, un termometro digital puede servir  para monitorear las condiciones en un invernadero o proteger su satélite del frío helado del espacio exterior.
