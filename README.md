@@ -1,6 +1,5 @@
 # Analog Temperature Sensor (NTC) - Sensor de temperatura analogo 
 
-## Nombre del alumno: Benitez Solorzano Paola
 INSTITUTO TECNOLÓGICO DE TIJUANA
 
 DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
@@ -8,6 +7,8 @@ DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
 Carrera: Ingenieria en sistemas computacionales
 
 Materia: Sistemas programables
+
+Nombre del alumno: Benitez Solorzano Paola
 
 Maestro: Rene Solis Reyes
 
