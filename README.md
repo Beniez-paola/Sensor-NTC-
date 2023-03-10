@@ -17,9 +17,9 @@ Dentro de la actualidad hemos visto que existen muchos tipos de termometros pero
 
 ## Vistazo 
 
-![image](https://user-images.githubusercontent.com/124212478/223567943-2a83e982-304f-407a-b077-5f943c8208c4.png)
+![image](https://user-images.githubusercontent.com/124212478/224230506-39febc8d-400f-43b1-af43-c82de6f58c80.png)
 
-![image](https://user-images.githubusercontent.com/124212478/223628114-b02ce297-baf8-4899-a711-0562a73bffdf.png)
+![](https://user-images.githubusercontent.com/124212478/223628114-b02ce297-baf8-4899-a711-0562a73bffdf.png)
 
 
 ## ¿Que es un analog temperature sensor (NTC) ?
@@ -57,7 +57,7 @@ Este esquema se llama divisor de voltaje , porque el voltaje VCC se divide entre
 
 ## Simulando el sensor
 
-![image](https://user-images.githubusercontent.com/124212478/224229355-e4ca4865-cfac-494d-8f29-3c08948c8dd8.png)
+![](/imagenes/Diagrama.jpg)
 
 ## Codigo 
 
@@ -92,15 +92,15 @@ while True:
 
 > Cuando le damos clic en el boton de "iniciar simulación" estos son los resultados que aparecen.
 
-![image](https://user-images.githubusercontent.com/124212478/224229428-81e9b1e6-2602-46f5-a1d7-a8e9ad48793a.png)
+![](/imagenes/Resultado1.jpg)
 
 > Si queremos cambiar la temperatura, le damos clic al sensor y nos aparece este recuadro para modifcar la temperatura.
 
-![image](https://user-images.githubusercontent.com/124212478/224229466-bc18d342-9825-4210-b0e2-79a281505178.png)
+![](/imagenes/Termometro.jpg)
 
 > Aqui se ven los cambios reflejados al mover la temperatura
 
-![image](https://user-images.githubusercontent.com/124212478/224229503-c78328a0-1d72-4056-882f-2f7fc98fa3d9.png)
+![](/imagenes/Resultado2.jpg)
 
 ## Fuentes bibliograficas
 * https://microchipdeveloper.com/analog:analog-temperature-sensor
