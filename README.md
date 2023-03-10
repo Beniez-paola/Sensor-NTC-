@@ -57,7 +57,7 @@ Este esquema se llama divisor de voltaje , porque el voltaje VCC se divide entre
 
 ## Simulando el sensor
 
-![](/imagenes/Diagrama1.jpg)
+![image](https://user-images.githubusercontent.com/124212478/224229355-e4ca4865-cfac-494d-8f29-3c08948c8dd8.png)
 
 ## Codigo 
 
@@ -92,15 +92,15 @@ while True:
 
 > Cuando le damos clic en el boton de "iniciar simulación" estos son los resultados que aparecen.
 
-![](/imagenes/Resultado1.jpg)
+![image](https://user-images.githubusercontent.com/124212478/224229428-81e9b1e6-2602-46f5-a1d7-a8e9ad48793a.png)
 
 > Si queremos cambiar la temperatura, le damos clic al sensor y nos aparece este recuadro para modifcar la temperatura.
 
-![](/imagenes/Temperatura.jpg)
+![image](https://user-images.githubusercontent.com/124212478/224229466-bc18d342-9825-4210-b0e2-79a281505178.png)
 
 > Aqui se ven los cambios reflejados al mover la temperatura
 
-![](/imagenes/Resultado2.jpg)
+![image](https://user-images.githubusercontent.com/124212478/224229503-c78328a0-1d72-4056-882f-2f7fc98fa3d9.png)
 
 ## Fuentes bibliograficas
 * https://microchipdeveloper.com/analog:analog-temperature-sensor
