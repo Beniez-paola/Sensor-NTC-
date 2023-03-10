@@ -57,7 +57,7 @@ Este esquema se llama divisor de voltaje , porque el voltaje VCC se divide entre
 
 ## Simulando el sensor
 
-![](/imagenes/Diagrama.jpg)
+![](/imagenes/Diagrama1.jpg)
 
 ## Codigo 
 
@@ -96,7 +96,7 @@ while True:
 
 > Si queremos cambiar la temperatura, le damos clic al sensor y nos aparece este recuadro para modifcar la temperatura.
 
-![](/imagenes/Termometro.jpg)
+![](/imagenes/Temperatura.jpg)
 
 > Aqui se ven los cambios reflejados al mover la temperatura
 
