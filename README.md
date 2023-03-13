@@ -2,23 +2,26 @@
 
 ![image](https://user-images.githubusercontent.com/124212478/224834777-40d3debc-bc08-4339-a1b1-e2cb35062475.png)
 
-INSTITUTO TECNOLÓGICO DE TIJUANA
+                   INSTITUTO TECNOLÓGICO DE TIJUANA
 
-DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
-                      
-SUBDIRECCIÓN ACADÉMICA
-                             
-DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN  
+                  DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+                  
+                         SUBDIRECCIÓN ACADÉMICA
+                         
+                 DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+                 
+                             Semestre: 7
 
-SEMESTRE: Enero - Junio 2023
-                             
-Carrera: Ingenieria en sistemas computacionales
+                              SEMESTRE: 
+                         Enero - Junio 2023
+                         
+           Carrera: Ingenieria en sistemas computacionales
 
-Materia: Sistemas programables
+                   Materia: Sistemas programables
 
-Nombre del alumno: Benitez Solorzano Paola
+              Nombre del alumno: Benitez Solorzano Paola
 
-Maestro: Rene Solis Reyes
+                      Maestro: Rene Solis Reyes
 
 ## Introducción
 Dentro de la actualidad hemos visto que existen muchos tipos de termometros pero dentro de ellos estan los termometros digitales. Normalmente para tomar la temperatura se usa un termistor fisico para checar la temperatura. Pero se puede simular un termometro digital con un analog temperature sensor, un termometro digital puede servir  para monitorear las condiciones en un invernadero o proteger su satélite del frío helado del espacio exterior.
