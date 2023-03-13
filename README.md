@@ -2,16 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/124212478/224834777-40d3debc-bc08-4339-a1b1-e2cb35062475.png)
 
-                   INSTITUTO TECNOLÓGICO DE TIJUANA
+                    INSTITUTO TECNOLÓGICO DE TIJUANA
 
                   DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
                   
                          SUBDIRECCIÓN ACADÉMICA
                          
-                 DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
-                
-                              SEMESTRE: 
-                         Enero - Junio 2023
+                               SEMESTRE: 
+                          Enero - Junio 2023
                          
            CARRERA: Ingenieria en sistemas computacionales
 
