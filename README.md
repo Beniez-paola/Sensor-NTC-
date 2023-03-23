@@ -97,7 +97,7 @@ while True:
     sleep(0.1)
 
 ```
-**Link del programa :** https://wokwi.com/projects/358690984043860993
+**Link del programa :** [Simulador de NTC](https://wokwi.com/projects/358690984043860993)
 
 ## Resultados
 
